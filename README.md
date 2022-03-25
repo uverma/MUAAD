@@ -1,4 +1,4 @@
-# MUAAD: Manipal UAV Anomaly Activity Dataset
+# MUAAD: Manipal UAV Anomaly Activity Dataset (Multi-Scene UAV Video Anomaly Dataset)
 
 
 UAV based surveillance is gaining much interest worldwide due to its extensive applications in monitoring wildlife, urban planning, disaster management, providing security, etc. The UAV videos can be analyzed for strange/odd/anomalous patterns which are essential aspects of surveillance. But manual analysis of these videos is tedious and laborious. The development of computer-aided systems for the analysis of UAV based surveillance videos is crucial. Despite this interest, in literature, several computer aided systems are developed focusing on CCTV based surveillance videos. These methods are designed for single scene scenarios and lack contextual knowledge which is required for multi-scene scenarios. Furthermore, the lack of standard UAV based anomaly detection datasets limits the development of these systems. We proposes a new Anomaly Activity Detection dataset from UAV Aerial Videos. 
@@ -28,3 +28,18 @@ Figure 1: Distribution of Normal and anomalous samples in MUAAD dataset
 
 ![alt text](https://github.com/uverma/MUAAD/blob/main/NormalVsAnomalous.png)
  
+ 
+ Sample Video (Compressed): 
+ 
+
+https://user-images.githubusercontent.com/9693827/160067700-2d85b432-c7db-4277-b7d0-c2f7df1c6e9e.mp4
+
+
+
+https://user-images.githubusercontent.com/9693827/160068106-d40a73ac-0dbb-470c-a0a1-6ef23505b219.mp4
+
+
+ 
+ ## Download: 
+This dataset is made available for academic research purpose only, and should not be used for any commercial purpose. To download the dataset, please fill the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdpDYCd2gCKtYb6pvolCQ6zz8MGXa46LFrXZfDWfz_CrTy-jQ/viewform). The link to download the dataset shall be shared to your email address.
+
