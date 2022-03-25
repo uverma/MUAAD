@@ -36,10 +36,20 @@ https://user-images.githubusercontent.com/9693827/160067700-2d85b432-c7db-4277-b
 
 
 
-https://user-images.githubusercontent.com/9693827/160068106-d40a73ac-0dbb-470c-a0a1-6ef23505b219.mp4
+
+
+
+https://user-images.githubusercontent.com/9693827/160068569-9a0a97ba-fad5-4fc4-83ec-b7f1a41f869d.mp4
+
 
 
  
  ## Download: 
 This dataset is made available for academic research purpose only, and should not be used for any commercial purpose. To download the dataset, please fill the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdpDYCd2gCKtYb6pvolCQ6zz8MGXa46LFrXZfDWfz_CrTy-jQ/viewform). The link to download the dataset shall be shared to your email address.
+
+
+
+## Contextual Information Based Anomaly Detection for a Multi-Scene UAV Aerial Videos 
+Abstract: UAV based surveillance is gaining much interest worldwide due to its extensive applications in monitoring wildlife, urban planning, disaster management, campus security, etc. These videos are analyzed for strange/odd/anomalous patterns which are essential aspects of surveillance. But manual analysis of these videos is tedious and laborious. Hence, the development of computer-aided systems for the analysis of UAV based surveillance videos is crucial. Despite this interest, in literature, several computer aided systems are developed focusing only on  CCTV based surveillance videos. These methods are designed for single scene scenarios and lack contextual knowledge which is required for multi-scene scenarios.  Furthermore, the lack of standard UAV based anomaly detection datasets limits the development of these systems. In this regard, the present work aims at the development of a Computer Aided Decision support system to analyse UAV based surveillance videos. A new UAV based multi-scene anomaly detection dataset is developed with frame-level annotations for the development of computer aided systems. It holistically uses contextual, temporal and appearance features for accurate detection of anomalies. Furthermore, a new inference strategy is proposed that utilizes few anomalous samples along with normal samples to identify better decision boundaries. The proposed method is extensively evaluated on the UAV based anomaly detection dataset and performed competitively with respect to state-of-the-art methods. 
+![image](https://user-images.githubusercontent.com/9693827/160068822-66463720-2072-446b-9370-268dcc25f9a1.png)
 
